@@ -1,0 +1,8 @@
+2020/12/04 15:58:59 [alert] 1#1: worker process 34 exited on signal 4 (core dumped)
+2020/12/04 15:58:59 [alert] 1#1: worker process 35 exited on signal 4 (core dumped)
+2020/12/04 15:58:59 [alert] 1#1: worker process 36 exited on signal 4 (core dumped)
+2020/12/04 15:58:59 [alert] 1#1: worker process 30 exited on signal 4 (core dumped)
+2020/12/04 15:58:59 [alert] 1#1: worker process 31 exited on signal 4 (core dumped)
+2020/12/04 15:58:59 [alert] 1#1: worker process 32 exited on signal 4 (core dumped)
+2020/12/04 15:58:59 [alert] 1#1: worker process 33 exited on signal 4 (core dumped)
+2020/12/04 15:58:59 [alert] 1#1: worker process 37 exited on signal 4 (core dumped)
